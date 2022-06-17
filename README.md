@@ -17,7 +17,7 @@
 
 ### 🧛‍♂️ A propos de moi :
 
-Je m'appel Vivien et je suis développeur web full stack !
+Je m'appelle Vivien et je suis développeur web full stack !
 J'ai obtenu mon titre RNCP de niveau 5 (bac +2) avec OpenClassrooms à la suite d'une reconversion professionnel et me voilà aujourd'hui !
 
 ---
