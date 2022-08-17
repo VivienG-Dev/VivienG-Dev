@@ -24,7 +24,7 @@ J'ai obtenu mon titre RNCP de niveau 5 (bac +2) avec OpenClassrooms à la suite 
 
 ### 👀 En recherche d'un job ? :
 
-Oui ! Je suis actuellement à la recherche d'un CDI, de préférence en tant que développeur web front-end en Île-de-France mais avec possibilité de relocalisation dans le sud (Montpellier, Lyon, Aix-en-Provence)
+Je suis actuellement en Freelance chez SpinforEat en tant que développeur web full stack.
 
 ---
 
