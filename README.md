@@ -51,9 +51,7 @@ Ayant tout de même une préférence pour le front-end, j'aime travailler avec R
 
 ### 🚧 Je travail sur quoi actuellement ? :
 
-Actuellement je travaille sur une V2 de mon réseau social d'entreprise (projet 7 d'OpenClassrooms) réalisé avec React. Mais j'ai également des projets avec Vue.js afin de me perfectionner avec le framework !
-
-J'ai évidemment plein de petites idées en tête que je compte réaliser, notamment avec AWS, mais ça reste encore secret.
+En plus de mon travail de freelance, je suis actuellement sur deux projets personnels, l'un concerne le jeu de rôle et l'autre concerne Star Citizen. Les deux devraient être disponibles en 2023 et figureront sur mon portfolio.
 
 
 <!--
