@@ -24,7 +24,7 @@ J'ai obtenu mon titre RNCP de niveau 5 (bac +2) avec OpenClassrooms à la suite 
 
 ### 👀 En recherche d'un job ? :
 
-Je suis actuellement freelance chez un client en tant que développeur web full stack.
+Je suis actuellement freelance chez un client en tant que développeur web front-end.
 
 ---
 
