@@ -17,7 +17,7 @@
 
 ### 🧛‍♂️ A propos de moi :
 
-Je m'appelle Vivien et je suis développeur web full stack !
+Je m'appelle Vivien et je suis développeur web full stack freelance !
 J'ai obtenu mon titre RNCP de niveau 5 (bac +2) avec OpenClassrooms à la suite d'une reconversion professionnel et me voilà aujourd'hui !
 
 ---
@@ -30,11 +30,11 @@ Je suis actuellement freelance chez un client en tant que développeur web front
 
 ### 📜 Ma stack ? :
 
-Ayant tout de même une préférence pour le front-end, j'aime travailler avec React et particulièrement le framework Vue.js.
+Ayant tout de même une préférence pour le front-end, j'aime particulièrement travailler avec Vue.js mais je connais également React.
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -51,7 +51,9 @@ Ayant tout de même une préférence pour le front-end, j'aime travailler avec R
 
 ### 🚧 Je travail sur quoi actuellement ? :
 
-En plus de mon travail de freelance, je suis actuellement sur deux projets personnels, l'un concerne le jeu de rôle et l'autre concerne Star Citizen. Les deux devraient être disponibles en 2023 et figureront sur mon portfolio.
+J'ai travaillé pour la start-up SpinforEat de Août 2022 à Décembre 2023 pour aider à la réalisation de deux applications web (SPA) ainsi qu'un site vitrine. J'ai utilisé Vue 3, l'API de composition, Pinia, Sass et implémenter l'API interne côté front. J'ai également utilisé Nuxt pour le site vitrine.
+
+En plus de mon travail de freelance, je suis actuellement sur deux projets personnels, l'un concerne le jeu de rôle et l'autre concerne Star Citizen. Les deux devraient être disponibles en 2024 et figureront sur mon portfolio.
 
 
 <!--
