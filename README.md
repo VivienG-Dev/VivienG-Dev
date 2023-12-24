@@ -18,13 +18,13 @@
 ### 🧛‍♂️ A propos de moi :
 
 Je m'appelle Vivien et je suis développeur web full stack freelance !
-J'ai obtenu mon titre RNCP de niveau 5 (bac +2) avec OpenClassrooms à la suite d'une reconversion professionnel et me voilà aujourd'hui !
+J'ai obtenu mon titre RNCP de niveau 5 (bac +2) avec OpenClassrooms à la suite d'une reconversion professionnel en 2021 et me voilà aujourd'hui !
 
 ---
 
 ### 👀 En recherche d'un job ? :
 
-Je suis actuellement freelance chez un client en tant que développeur web front-end.
+Je suis actuellement disponible !
 
 ---
 
