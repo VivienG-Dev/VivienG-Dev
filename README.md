@@ -32,43 +32,19 @@ Je suis actuellement disponible pour un poste en freelance/CDI en tant que déve
 
 Ayant tout de même une préférence pour le front-end, j'aime particulièrement travailler avec Vue.js mais je connais également React/Nuxt et également le backend avec Express (NestJS en cours).
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="80" />
-  </div>
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="80" />
-  </div>
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="80" />
-  </div>
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80" />
-  </div>
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="80" />
-  </div>
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="80" />
-  </div>
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original-wordmark.svg" width="80" />
-  </div>
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="80" />
-  </div>
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="80" />
-  </div>
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="80" />
-  </div>
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="80" />
-  </div>
-  <div style="background-color: white; padding: 10px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="80" />
-  </div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="80" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="80" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="80" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="80" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="80" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original-wordmark.svg" width="80" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="80" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="80" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="80" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="80" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="80" />&nbsp;
 </div>
 
 
