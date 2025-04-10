@@ -49,7 +49,7 @@ C’est aussi un terrain de jeu pour explorer le scraping, la création d’API 
 ---
 
 📬 Tu veux discuter ?  
-Tu peux me contacter directement ici ou via [LinkedIn](https://www.linkedin.com/in/vivien-grenier/) !  
+Tu peux me contacter via [LinkedIn](https://www.linkedin.com/in/vivien-grenier/) !  
 Je suis toujours partant pour échanger autour de projets web, de mangas, ou de stacks modernes ✨
 
 
