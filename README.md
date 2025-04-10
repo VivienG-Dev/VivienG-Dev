@@ -13,50 +13,44 @@
 </div>
 </div>
 
-### Bienvenue ! 👋
+# 👋 Bienvenue !
 
-### 🧛‍♂️ A propos de moi :
+## 🧛‍♂️ À propos de moi
+Je m'appelle **Vivien**, développeur web **fullstack freelance**, passionné par les interfaces soignées, les architectures propres et les projets pensés sur le long terme.  
+Après une reconversion professionnelle en 2021, j’ai obtenu un **titre RNCP niveau 5 (bac +2)** via OpenClassrooms, et depuis… je code avec passion et exigence !
 
-Je m'appelle Vivien et je suis développeur web fullstack freelance !
-J'ai obtenu mon titre RNCP de niveau 5 (bac +2) avec OpenClassrooms à la suite d'une reconversion professionnel en 2021 et me voilà aujourd'hui !
+## 💼 Actuellement à l'écoute
+Je suis **disponible** pour des opportunités en **freelance ou CDI**, en tant que **développeur frontend ou fullstack**.  
+J’aime travailler en autonomie tout en gardant une bonne communication produit/tech. Mon profil est particulièrement adapté aux **startups**, **projets SaaS** ou **équipes agiles**.
 
----
+## 🧰 Ma stack préférée
+Même si j’ai un faible pour le **frontend** et **l’expérience utilisateur**, je maîtrise toute la chaîne :
+- **Frontend** : Vue 3, Nuxt 3, Pinia, Composition API, Tailwind, SCSS
+- **Backend** : NestJS, Node.js, Express, Prisma  
+- **Base de données** : PostgreSQL, Supabase  
+- **Autres outils** : Git, Coolify, Strapi, Directus, Figma, Cloudflare R2...
+- **Indispensable** : Thé et café
 
-### 👀 En recherche d'un job ? :
+Je connais aussi React et j’ai quelques bases en React Native (hello mobile apps~ 📱).
 
-Je suis actuellement disponible pour un poste en freelance/CDI en tant que développeur frontend/fullstack !
+## 🚀 Mon expérience
+J’ai travaillé pour la startup **SpinforEat** de **Août 2022 à Décembre 2023**, où j’ai :
+- Participé au développement de **2 applications web SPA**
+- Conçu un **site vitrine avec Nuxt 3**
+- Utilisé Vue 3, Pinia, Sass, et intégré l’API interne sur le frontend
 
----
-
-### 📜 Ma stack ? :
-
-Ayant tout de même une préférence pour le front-end, j'aime particulièrement travailler avec Vue.js mais je connais également React/Nuxt et également le backend avec Express (NestJS en cours).
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original-wordmark.svg" width="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="80" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="80" />&nbsp;
-</div>
-
+## 🧪 Ce que je développe en ce moment
+Je travaille sur un projet personnel autour des **mangas**, actuellement en ligne en V1 sur ([Manga Hive](https://www.manga-hive.com/)), avec :
+- **Backend** : NestJS, Prisma, PostgreSQL  
+- **Frontend** : Vue 3 (passage sous Nuxt prochainement pour la partie SSR+SPA)  
+- L’objectif : créer une plateforme fluide, légère et évolutive, pensée pour une vraie **expérience utilisateur** sans surcharge inutile.  
+C’est aussi un terrain de jeu pour explorer le scraping, la création d’API maison, et le traitement de données 💡
 
 ---
 
-### 🚧 Mon expérience ? :
-
-J'ai travaillé pour la start-up SpinforEat de Août 2022 à Décembre 2023 pour aider à la réalisation de deux applications web (SPA) ainsi qu'un site vitrine. J'ai utilisé Vue 3, l'API de composition, Pinia, Sass et implémenter l'API interne côté front. J'ai également utilisé Nuxt la réalisation d'un site le site vitrine d'un réstaurant partenaire.
-
-### 🚧 Je travail sur quoi actuellement ? :
-
-Actuellement je travail sur un projet fullstack sur le sujet des mangas/animés avec NestJS, Prisma et PostgreSQL en backend et probablement VUE 3 côté frontend.
+📬 Tu veux discuter ?  
+Tu peux me contacter directement ici ou via [LinkedIn](https://www.linkedin.com/in/vivien-grenier/) !  
+Je suis toujours partant pour échanger autour de projets web, de mangas, ou de stacks modernes ✨
 
 
 <!--
