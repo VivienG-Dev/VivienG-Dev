@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="./banner.svg" width="100%" alt="Vivien Grenier — Manga Hive & SillySimple"/>
   <div id="badges">
     <a href="https://www.vivieng.com/en">
       <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio Badge"/>
